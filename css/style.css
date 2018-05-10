@@ -1,0 +1,21 @@
+#query{
+  background-color:green;
+  width:500px;
+  height:50px;
+}
+.contents{
+  margin-left:auto;
+  margin-right:auto;
+  float:none;
+  margin-top:50px;
+}
+.resLi{
+  color:black;
+  background-color:#f6f6f6;  
+  border-left:3px solid green;
+  padding:10px;
+  margin-top:10px;
+}
+.resLi a:hover{
+  text-decoration:none;
+}
